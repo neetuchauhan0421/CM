@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="16px" viewBox="0 0 13 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/ic-location-flag</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/ic-location-flag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M1.95,1.96153846 L1.95,15.7078666" id="Path-36" stroke="#142F4E"></path>
+            <path d="M2.41040885,2.61538462 L11.4799683,2.61538462 C12.032253,2.61538462 12.4799683,3.06309987 12.4799683,3.61538462 L12.4799683,8.19455314 C12.4799683,8.74683789 12.032253,9.19455314 11.4799683,9.19455314 L2.31994961,9.19455314 C1.76766486,9.19455314 1.31994961,8.74683789 1.31994961,8.19455314 C1.31994961,8.18796911 1.32001464,8.18138523 1.32014468,8.17480248 L1.41060391,3.59563396 C1.42135986,3.05115337 1.86582203,2.61538462 2.41040885,2.61538462 Z" id="Path-37" fill="#142F4E"></path>
+            <ellipse id="Oval-2" fill="#142F4E" cx="2.20999603" cy="1.43846952" rx="1.3" ry="1.30769231"></ellipse>
+        </g>
+    </g>
+</svg>

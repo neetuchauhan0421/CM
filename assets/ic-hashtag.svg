@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/ic-hashtag</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/ic-hashtag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Shape" stroke="#142F4E" stroke-width="2">
+            <path d="M8,0 L12,13"></path>
+            <path d="M3,1 L7,14"></path>
+            <path d="M13,2 L0,6"></path>
+            <path d="M14,7 L1,11"></path>
+        </g>
+    </g>
+</svg>

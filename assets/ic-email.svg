@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="11px" viewBox="0 0 16 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/ic-email</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/ic-email" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M1.57142857,0.55 L14.4285714,0.55 C14.9808562,0.55 15.4285714,0.99771525 15.4285714,1.55 L15.4285714,9.45 C15.4285714,10.0022847 14.9808562,10.45 14.4285714,10.45 L1.57142857,10.45 C1.01914382,10.45 0.571428571,10.0022847 0.571428571,9.45 L0.571428571,1.55 C0.571428571,0.99771525 1.01914382,0.55 1.57142857,0.55 Z" id="Path-41" fill="#142F4E"></path>
+            <path d="M1.14285714,0.1 L7.30905141,5.99362319 C7.69559991,6.36308465 8.30440009,6.36308465 8.69094859,5.99362319 L14.8571429,0.1" id="Path-42" stroke="#FFFFFF" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

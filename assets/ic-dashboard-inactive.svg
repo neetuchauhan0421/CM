@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="32px" viewBox="0 0 30 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/ic-dashboard-inactive</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/ic-dashboard-inactive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="YPO-_Dashboard" stroke="#999999">
+            <path d="M29.5,0.5 L0.500446668,0.5 L0.500446668,12.1315789 L29.5,12.1315789 L29.5,0.5 Z M22.4411765,7.18941155 L6.67647059,7.18941155 L6.67647059,25.5749166 L22.4411765,25.5749166 L22.4411765,7.18941155 Z M0.500017681,19.8684211 L0.500428988,31.5 L29.4995533,31.5 L29.4995533,19.8684211 L0.500017681,19.8684211 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="22px" viewBox="0 0 26 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/ic-chat</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/ic-chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25.0001,1.0002 L1.0001,1.0002 L1.0001,17.0002 L5.0001,17.0002 L5.0001,21.0002 L9.0001,17.0002 L25.0001,17.0002 L25.0001,1.0002 Z M0.0001,0.0002 L23.0001,0.0002 L26.0001,0.0002 L26.0001,18.0002 L9.4101,18.0002 L5.7101,21.7102 C5.5201,21.8992 5.2601,22.0002 5.0001,22.0002 C4.8701,22.0002 4.7401,21.9792 4.6201,21.9202 C4.2401,21.7702 4.0001,21.3992 4.0001,21.0002 L4.0001,18.0002 L0.0001,18.0002 L0.0001,0.0002 Z M3,4 L23,4 L23,5 L3,5 L3,4 Z M3,8 L21,8 L21,9 L3,9 L3,8 Z M3,13 L18,13 L18,14 L3,14 L3,13 Z" id="Combined-Shape" fill="#999999"></path>
+    </g>
+</svg>

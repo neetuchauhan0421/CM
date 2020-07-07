@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/ic-cross-white-small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/ic-cross-white-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.5,24 C5.60416667,24 0,18.62 0,12 C0,5.38 5.60416667,0 12.5,0 C19.3854167,0 25,5.38 25,12 C25,18.62 19.3854167,24 12.5,24 Z M17.7083333,9 L15.625,7 L12.5,10 L9.375,7 L7.29166667,9 L10.4166667,12 L7.29166667,15 L9.375,17 L12.5,14 L15.625,17 L17.7083333,15 L14.5833333,12 L17.7083333,9 Z" id="Fill-1" fill="#FFFFFF"></path>
+    </g>
+</svg>

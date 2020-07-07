@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/ic-tick-white-small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/ic-tick-white-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,24 C5.38,24 0,18.62 0,12 C0,5.38 5.38,0 12,0 C18.61,0 24,5.38 24,12 C24,18.62 18.61,24 12,24 Z M16.29,7 L10.06,13.5 L7.71,11.04 L6,12.83 L9.99,17 L10.06,16.931 L10.13,17 L18,8.79 L16.29,7 Z" id="Fill-1" fill="#FFFFFF"></path>
+    </g>
+</svg>

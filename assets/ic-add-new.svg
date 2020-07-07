@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="72px" viewBox="0 0 73 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/ic-add-new</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/ic-add-new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="YPO-symbol-base_Add-New">
+            <ellipse id="Oval" fill="#8CC63F" fill-rule="nonzero" cx="36.5" cy="36" rx="36.458238" ry="35.9588101"></ellipse>
+            <polygon id="Shape" stroke="#FFFFFF" stroke-width="4.3" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="37.6417735 52.8878719 35.3582265 52.8878719 35.3582265 37.1261327 19.3775744 37.1261327 19.3775744 34.8738673 35.3582265 34.8738673 35.3582265 19.1121281 37.6417735 19.1121281 37.6417735 34.8738673 53.6224256 34.8738673 53.6224256 37.1261327 37.6417735 37.1261327"></polygon>
+            <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2" cx="36.5" cy="36" rx="31.7391304" ry="31.3043478"></ellipse>
+        </g>
+    </g>
+</svg>

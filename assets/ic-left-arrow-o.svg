@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/ic-left-arrow-o</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.13260065,13 L13,16.59 L11.4777328,18 L5,12 L11.4777328,6 L13,7.41 L9.13260065,11 L19,11 L19,13 L9.13260065,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icons/ic-left-arrow-o" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="arrow"></g>
+        <g id="🎨-color" mask="url(#mask-2)" fill="#9FA0A4">
+            <rect id="color#3" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>
